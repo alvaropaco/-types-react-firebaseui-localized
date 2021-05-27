@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greg-schrammel/react-firebaseui-localized.git"
+    "url": "https://github.com/alvaropaco/types-react-firebaseui-localized.git"
   },
   "keywords": [
     "firebase",
@@ -21,12 +21,12 @@
     "i18n",
     "localized"
   ],
-  "author": "gregory schrammel",
+  "author": "alvaropaco",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greg-schrammel/react-firebaseui-localized/issues"
+    "url": "https://github.com/alvaropaco/types-react-firebaseui-localized/issues"
   },
-  "homepage": "https://github.com/greg-schrammel/react-firebaseui-localized#readme",
+  "homepage": "https://github.com/alvaropaco/types-react-firebaseui-localized",
   "devDependencies": {
     "@babel/core": "^7.13.8",
     "@babel/preset-react": "^7.12.13",
