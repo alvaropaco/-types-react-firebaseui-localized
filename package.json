@@ -1,6 +1,6 @@
 {
   "name": "@types/react-firebaseui-localized",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "React wrapper over firebaseui package with simpler localization",
   "main": "types/index.d.ts",
   "private": false,
